@@ -1,6 +1,6 @@
 # Courses – Dr. Daisy Ning
 
-Welcome to my teaching site at **Michigan Technological University (GMES)**.
+Welcome to my teaching site at **Michigan Technological University (GMES)** & **Clemson University (EEES)**.
 
 ## Courses
 
