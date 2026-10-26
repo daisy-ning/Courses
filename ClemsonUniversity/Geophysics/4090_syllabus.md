@@ -101,27 +101,27 @@ The previous instructor's letter-grade scale was:
 
 ## 📆 Weekly Schedule (Spring 2027)
 
-**Lecture:** Monday / Wednesday / Friday (50 minutes each). **Lab:** Separate weekly session, up to 3 hours; topics will be finalized after field equipment and scheduling are confirmed.
+**Lecture:** Monday / Wednesday / Friday (50 minutes each). **Lab:** Friday afternoon, up to 3 hours. Laboratory topics below are tentative and will be finalized based on equipment, weather, and scheduling. Some labs span acquisition, processing, and interpretation over multiple weeks.
 
-| Week | Dates | Lecture Topics | Notes |
-| :--- | :--- | :--- | :--- |
-| 1 | Jan 6–8 | Course introduction; overview of geophysical methods | Classes begin Wednesday |
-| 2 | Jan 11–15 | Survey design, uncertainty, and seismic fundamentals | |
-| 3 | Jan 18–22 | Seismic refraction: critical refraction, travel-time curves, layered Earth | Jan 18: MLK holiday |
-| 4 | Jan 25–29 | Seismic refraction interpretation; introduction to seismic reflection | |
-| 5 | Feb 1–5 | Seismic reflection: travel time, acquisition, and interpretation | |
-| 6 | Feb 8–12 | Seismic reflection processing; GPR fundamentals | |
-| 7 | Feb 15–19 | GPR acquisition, processing, and geological interpretation | |
-| 8 | Feb 22–26 | DC electrical resistivity: fundamentals, current flow, electrode arrays | |
-| 9 | Mar 1–5 | Apparent resistivity, sounding, profiling, electrical resistivity tomography | |
-| 10 | Mar 8–12 | Midterm review and exam; introduction to NMR | Midterm date tentative |
-| — | Mar 15–19 | **Spring break — no class** | |
-| 11 | Mar 22–26 | NMR principles and groundwater applications; self-potential fundamentals | |
-| 12 | Mar 29–Apr 2 | Self-potential applications; electromagnetic induction (EMI) fundamentals | |
-| 13 | Apr 5–9 | EMI measurements and interpretation; gravity fundamentals | |
-| 14 | Apr 12–16 | Gravity anomalies and interpretation; introduction to magnetic methods | |
-| 15 | Apr 19–23 | Magnetic surveying and interpretation; supplementary examples; final review | Apr 22–23: University special class days |
-| Finals | Apr 26–30 | **Final exam during university-assigned examination period** | Exact time to be announced |
+| Week | Dates | Lecture Topics | Lab (Tentative) | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Jan 6–8 | Course introduction; overview of geophysical methods | Lab orientation; introduction to geophysical data and survey planning | Classes begin Wednesday |
+| 2 | Jan 11–15 | Survey design, uncertainty, and seismic fundamentals | Survey design, field notes, and basic seismic data | |
+| 3 | Jan 18–22 | Seismic refraction: critical refraction, travel-time curves, layered Earth | Seismic refraction: acquisition or provided field dataset | Jan 18: MLK holiday |
+| 4 | Jan 25–29 | Seismic refraction interpretation; introduction to seismic reflection | Seismic refraction: travel-time picks and interpretation | |
+| 5 | Feb 1–5 | Seismic reflection: travel time, acquisition, and interpretation | Seismic reflection: reading and identifying reflectors on records | |
+| 6 | Feb 8–12 | Seismic reflection processing; GPR fundamentals | Seismic reflection processing and interpretation exercise | |
+| 7 | Feb 15–19 | GPR acquisition, processing, and geological interpretation | GPR: acquisition or provided dataset; processing and interpretation | |
+| 8 | Feb 22–26 | DC electrical resistivity: fundamentals, current flow, electrode arrays | Resistivity: electrode arrays and field measurements | |
+| 9 | Mar 1–5 | Apparent resistivity, sounding, profiling, electrical resistivity tomography | Resistivity: apparent resistivity calculations and ERT interpretation | |
+| 10 | Mar 8–12 | Midterm review and exam; introduction to NMR | Resistivity/ERT interpretation wrap-up or make-up lab | Midterm date tentative |
+| — | Mar 15–19 | **Spring break — no class** | **No lab** | |
+| 11 | Mar 22–26 | NMR principles and groundwater applications; self-potential fundamentals | NMR: relaxation curves and groundwater interpretation | |
+| 12 | Mar 29–Apr 2 | Self-potential applications; electromagnetic induction (EMI) fundamentals | Self-potential: profiles and interpretation | |
+| 13 | Apr 5–9 | EMI measurements and interpretation; gravity fundamentals | EMI: conductivity mapping and interpretation | |
+| 14 | Apr 12–16 | Gravity anomalies and interpretation; introduction to magnetic methods | Gravity: corrections and anomaly interpretation | |
+| 15 | Apr 19–23 | Magnetic surveying and interpretation; supplementary examples; final review | Magnetics: anomalies and geological interpretation | Apr 22–23: University special class days |
+| Finals | Apr 26–30 | **Final exam during university-assigned examination period** | **No lab** | Exact time to be announced |
 
 The lecture topics and timing may be adjusted to accommodate class progress, field conditions, instrument availability, and official university scheduling. Individual reading assignments, homework, and laboratory activities will be announced on Canvas.
 
@@ -157,4 +157,4 @@ Students completing this course should be able to select suitable near-surface g
 
 ---
 
-*Last updated: October 22, 2026. This is a working syllabus; check Canvas for official course announcements and revisions.*
+*Last updated: October 26, 2026. This is a working syllabus; check Canvas for official course announcements and revisions.*
